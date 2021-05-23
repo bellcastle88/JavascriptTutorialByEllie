@@ -1,6 +1,5 @@
 # JavascriptTutorialByEllie
 
-[^1]:
 
 1. 자바스크립트의 역사와 현재 그리고 미래 (JavaScript, ECMAScript, JQuery, Babel, Node.js)
 
