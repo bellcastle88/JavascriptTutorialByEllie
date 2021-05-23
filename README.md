@@ -7,6 +7,8 @@
 
 3. 데이터타입, data types, let vs var, hoisting
 
+4. 코딩의 기본 operator, if, for loop
+
 
 ## Blog
 https://proglish.tistory.com/category/Front-end/Javacript
