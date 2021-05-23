@@ -7,5 +7,5 @@
 3. 데이터타입, data types, let vs var, hoisting
 
 
-
-출처 : https://www.youtube.com/watch?v=OCCpGh4ujb8&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2&index=3
+# 출처
+https://www.youtube.com/watch?v=OCCpGh4ujb8&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2&index=3
