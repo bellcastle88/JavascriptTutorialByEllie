@@ -4,7 +4,7 @@
 
 //////////////////////////////////////////////////////////////////////////////////
 
-// 2. Variable 변수
+// 2. Variable 변수, rw(read / write)
 // let (added in ES6)
 
 let golbalName  = 'global name';
@@ -27,13 +27,20 @@ console.log(golbalName);
 
 //////////////////////////////////////////////////////////////////////////////////
 
-// 3. Constants
+// 3. Constant r(read only)
 // favor immutable data type always for a few reasons:
 // - security
 // - thread safety
-// - reduce human mistakeㄴs
+// - reduce human mistakes
 const daysInWeek = 7;
 const maxNumber = 5;
+
+// use const whenever possible.
+// only use let if variable needs to change.
+
+// Note!
+// Immutable data types: premitive types, frozen objects (i.e. object.freeze())
+// Mutable data types: all objects by default are mutable in JS
 
 //////////////////////////////////////////////////////////////////////////////////
 
