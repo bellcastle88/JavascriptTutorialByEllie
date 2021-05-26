@@ -47,7 +47,7 @@ console.log(json)
  const obj = JSON.parse(json, (key, value) => {
      console.log(`key: ${key}, value: ${value}`);
      return key === 'birthDate' ? new Date(value) : value;
- });
+ }); 
 
  console.log(obj);
  rabbit.jump();
