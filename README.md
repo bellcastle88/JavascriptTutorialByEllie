@@ -31,6 +31,17 @@
 
 자바스크립트 함수 기본편
 
+자바스크립트 최신 문법 (ES6, ES11)
+
+1. 변수 | primitive 타입과 object의 차이점
+
+2. 함수 | 함수 정의, 호출, 그리고 콜백함수
+
+3. 연산자 | boolean의 모든것 && 연산자
+
+4. 클래스 | 클래스 예제와 콜백 함수 최종 정리
+
+
 
 ## Blog
 https://proglish.tistory.com/category/Front-end/Javacript
